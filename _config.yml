@@ -114,7 +114,7 @@ social_preview_image: /assets/img/profile.png
 toc: true
 
 comments:
-  # Global switch for the post-comment system. Keeping it empty means disabled.
+  # Global switch for the post-comment system.
   provider: giscus
   giscus:
     repo: temeddix/cs-site
