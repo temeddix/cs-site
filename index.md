@@ -1,1 +1,0 @@
-A dedicated space for collecting and organizing CS knowledge and resources, making them easily accessible and beneficial not only for myself but also for others navigating the world of computer science.
