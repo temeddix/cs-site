@@ -1,8 +1,8 @@
 ---
 title: Types of Networks by Size
 date: 2025-04-03 19:27:00 +0900
-categories: [Blog Test]
-tags: [test-purpose, empty]
+categories: [Network]
+tags: []
 ---
 
 Networks can be categorized by their size.
